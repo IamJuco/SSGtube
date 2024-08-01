@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6FA8DC&height=300&section=header&text=Youtube API를 활용한 어플리케이션 제작&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6FA8DC&height=300&section=header&text=Youtube" />
 <div align="center">
 
 ## [2024] 안드로이드 유튜브 앱 제작  
