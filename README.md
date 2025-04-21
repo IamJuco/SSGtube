@@ -127,7 +127,7 @@
 ## 팀원 소개 
 |이름|역할 및 기능 분담|
 |:---:|:---:|
-|**주성현**|Home Fragment, Bottom navigation View, MVVM, Repository Pattern, API ... 각자 더 추가해주시면 됩니다!|
+|**주성현**|Home Fragment, Bottom navigation View, MVVM, Repository Pattern,|
 |**안진혁**|공통된 ID 를 통한 서로 다른 API 값 연결, Detail Fragment ... 각자 더 추가해주시면 됩니다!|
 |**박세영**|Search Fragment, MyPage Fragment, Infinite ScrollView, Shared View Model|
 |**유혜정**|PPT 제작 및 앱 디자인 개선 ... 각자 더 추가해주시면 됩니다!|
